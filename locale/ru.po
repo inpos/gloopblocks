@@ -15,213 +15,162 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.3\n"
 "Last-Translator: inpos <inpos@yandex.ru>\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "Language: ru\n"
 
-#: init.lua
 msgid "Diagonal Rainbow Block"
 msgstr "Блок с радугой по диагонали"
 
-#: init.lua
 msgid "Horizontal Rainbow Block"
 msgstr "Блок с радугой по горизонтали"
 
-#: init.lua
 msgid "Cement"
 msgstr "Цемент"
 
-#: init.lua
 msgid "Evil Block"
 msgstr "Злой блок"
 
-#: init.lua
 msgid "Basalt"
 msgstr "Базальт"
 
-#: init.lua
 msgid "Pumice"
 msgstr "Пемза"
 
-#: init.lua
 msgid "Pavement"
 msgstr "Мостовая"
 
-#: init.lua
 msgid "Oerkki Block"
 msgstr "Блок Оеркки"
 
-#: init.lua
 msgid "Mossy Stone Brick"
 msgstr "Кирпич из мшистого камня"
 
-#: init.lua
 msgid "Mossy Stone"
 msgstr "Мшистый камень"
 
-#: init.lua
 msgid "Cobblestone Road Bed"
 msgstr "Брусчатка"
 
-#: init.lua
 msgid "Mossy Cobblestone Road Bed"
 msgstr "Мшистая брусчатка"
 
-#: init.lua
 msgid "Wooden Scaffold"
 msgstr "Деревянные строительные леса"
 
-#: init.lua
 msgid "Cobblestone Roadbed"
 msgstr "Брусчатка"
 
-#: init.lua
 msgid "Mossy Cobblestone Roadbed"
 msgstr "Мшистая брусчатка"
 
-#: init.lua
 msgid "Rainbow Block"
 msgstr "Радужный блок"
 
-#: init.lua
 msgid "Glow Crystal"
 msgstr "Светящийся хрусталь"
 
-#: init.lua
 msgid "Glow Emerald"
 msgstr "Светящийся изумруд"
 
-#: init.lua
 msgid "Glow Mese"
 msgstr "Светящийся камень"
 
-#: init.lua
 msgid "Mossy Stone Stair"
 msgstr "Ступенька из мшистого камня"
 
-#: init.lua
 msgid "Mossy Stone Slab"
 msgstr "Плита из мшистого камня"
 
-#: init.lua
 msgid "Mossy Cobble Stair"
 msgstr "Ступенька из мшистого булыжника"
 
-#: init.lua
 msgid "Mossy Cobble Slab"
 msgstr "Плита из мшистого булыжника"
 
-#: init.lua
 msgid "Mossy Stone Brick Stair"
 msgstr "Ступенька из мшистого каменного кирпича"
 
-#: init.lua
 msgid "Mossy Stone Brick Slab"
 msgstr "Плита из мшистого каменного кирпича"
 
-#: init.lua
 msgid "Cobble Roadbed Stair"
 msgstr "Ступенька из брусчатки"
 
-#: init.lua
 msgid "Cobble Roadbed Slab"
 msgstr "Плита из брусчатки"
 
-#: init.lua
 msgid "Mossy Cobble Roadbed Stair"
 msgstr "Ступенька из мшистой брусчатки"
 
-#: init.lua
 msgid "Mossy Cobble Roadbed Slab"
 msgstr "Плита из мшистой брусчатки"
 
-#: init.lua
 msgid "Cement Stair"
 msgstr "Ступенька из цемента"
 
-#: init.lua
 msgid "Cement Slab"
 msgstr "Плита из цемента"
 
-#: init.lua
 msgid "Pavement Stair"
 msgstr "Ступенька из мостовой"
 
-#: init.lua
 msgid "Pavement Slab"
 msgstr "Плита из мостовой"
 
-#: init.lua
 msgid "Basalt Stair"
 msgstr "Базальтовая ступенька"
 
-#: init.lua
 msgid "Basalt Slab"
 msgstr "Базальтовая плита"
 
-#: init.lua
 msgid "Pumice Stair"
 msgstr "Ступенька из пемзы"
 
-#: init.lua
 msgid "Pumice Slab"
 msgstr "Плита из пемзы"
 
-#: init.lua
 msgid "Rainbow Block Stair"
 msgstr "Ступенька из радужного блока"
 
-#: init.lua
 msgid "Rainbow Block Slab"
 msgstr "Плита из радужного блока"
 
-#: init.lua
 msgid "Cement Pickaxe"
 msgstr "Кирка из цемента"
 
-#: init.lua
 msgid "Cement Shovel"
 msgstr "Лопата из цемента"
 
-#: init.lua
 msgid "Cement Axe"
 msgstr "Топор из цемента"
 
-#: init.lua
 msgid "Cement Sword"
 msgstr "Меч из цемента"
 
-#: init.lua
 msgid "Evil Pickaxe"
 msgstr "Кирка зла"
 
-#: init.lua
 msgid "Evil Shovel"
 msgstr "Лопата зла"
 
-#: init.lua
 msgid "Evil Axe"
 msgstr "Топор зла"
 
-#: init.lua
 msgid "Evil Sword"
 msgstr "Меч зла"
 
-#: init.lua
 msgid "Wet Cement"
 msgstr "Мокрый цемент"
 
-#: init.lua
 msgid "Evil Stick"
 msgstr "Злая палка"
 
-#: init.lua
 msgid "Obsidian"
 msgstr "Обсидиан"
 
-#: init.lua
 msgid "Steel Fence"
 msgstr "Стальной забор"
 
-#: init.lua
 msgid "Gloopblocks Loaded!"
 msgstr "Gloopblocks загружен!"
+
